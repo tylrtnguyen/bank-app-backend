@@ -1,5 +1,5 @@
 <p align="center">
-  Bank App Backend built with Nest.js and PostgresQL
+  <h2>Bank App Backend built with Nest.js and PostgresQL</h2>
 </p>
 
 
