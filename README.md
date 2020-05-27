@@ -4,19 +4,17 @@
 
 
 ## 🛠 Installation & Set Up
+
 1. Install the nestjs CLI
-  
 ```sh
 $ npm install -g @nestjs/cli
 ```
 2. Install the correct version of Node (Nestjs supports node version 10, 12 and 14)
-   
 ```sh
 $ nvm install --lts
 ```
 3. Install postgresQL
-   
-[Install PostgresQL](https://www.postgresql.org/download/)
+- [Install PostgresQL](https://www.postgresql.org/download/)
 
 
 ## 🚀 Running the app
